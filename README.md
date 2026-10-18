@@ -11,15 +11,15 @@ I studied **Computer Science (Games)** and **Applied Mathematics** at the Univer
 - **Low-level & embedded:** C, Zig, small hardware like the SYCL badge
 - **Math-heavy code:** linear algebra, probability, simulation, optimization
 
-### Featured projects (Work in progress table, please be patient with me)
+### Featured projects 
 
-| Project | What it is | Tech |
-|---|---|---|
-| **[Ignition Arena](https://github.com/CamoKnight117/IgnitionArenaPublic)** | Commercial multiplayer arena game. I was project lead, art director, and programmer on networking and AI. <!-- add Steam / itch.io link --> | Unity, C# |
-| **[SYCL-Snake](https://github.com/CamoKnight117/SYCL-Snake)** | Snake built for the SYCL conference badge, running on embedded hardware | Zig, embedded |
-| **Pogo Rogue** | 30-person capstone roguelike. I was programming lead for level tooling and procedural generation. | GameMaker |
-| **[TradGameDevCpp](https://github.com/CamoKnight117/TradGameDevCpp)** | Traditional game development in C++ | C++ |
-| **Mother Earth** | Core gameplay systems in Unreal Engine 5 | UE5, C++ |
+| Project | About | My work | Tech |
+|---|---|---|---|
+| **[Ignition Arena](https://github.com/CamoKnight117/IgnitionArenaPublic)** | Commercial multiplayer arena game. | Project lead, Art director, and programmer on networking and AI. | Unity, C# |
+| **[SYCL-Snake](https://github.com/CamoKnight117/SYCL-Snake)** | Snake built for the SYCL conference badge, running on embedded hardware |Solo project| Zig, embedded |
+| **Pogo Rogue** | 30-person capstone, 2D platforming roguelike. | Programming lead for level tooling and procedural generation. | GameMaker |
+| **[Mother Earth](https://github.com/CamoKnight117/TradGameDevCpp)** | Core gameplay systems in Unreal | Lead Engineer | C++ |
+| **[Dia De Los Muertos](https://github.com/CamoKnight117/)** | Alternative Beat 'em up Game (Cultural Representation) | Lead Engineer | GML |
 
 ### Currently
 
