@@ -17,7 +17,7 @@ I studied **Computer Science (Games)** and **Applied Mathematics** at the Univer
 |---|---|---|---|
 | **[Ignition Arena](https://github.com/CamoKnight117/IgnitionArenaPublic)** | Commercial multiplayer arena game. | Project lead, Art director, and programmer on networking and AI. | Unity, C# |
 | **[SYCL-Snake](https://github.com/CamoKnight117/SYCL-Snake)** | Snake built for the SYCL conference badge, running on embedded hardware |Solo project| Zig, embedded |
-| **[Pogo Rogue](https://store.steampowered.com/app/2870280/Pogo_Rogue/)** | 30-person capstone, 2D platforming roguelike launched on Steam. | Programming lead for level tooling and procedural generation. | GameMaker |
+| **[Pogo Rogue](https://github.com/PogoRogue/PogoRogue)** | 30-person capstone, 2D platforming roguelike launched on Steam. | Programming lead for level tooling and procedural generation. | GameMaker |
 | **[Mother Earth](https://github.com/CamoKnight117/TradGameDevCpp)** | Core gameplay systems in Unreal | Lead Engineer | C++ |
 | **[Dia De Los Muertos](https://github.com/CamoKnight117/)** | Alternative Beat 'em up Game (Cultural Representation) | Lead Engineer | GML |
 
