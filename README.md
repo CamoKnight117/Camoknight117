@@ -11,7 +11,7 @@ I studied **Computer Science (Games)** and **Applied Mathematics** at the Univer
 - **Low-level & embedded:** C, Zig, small hardware like the SYCL badge
 - **Math-heavy code:** linear algebra, probability, simulation, optimization
 
-### Featured projects
+### Featured projects (Work in progress table, please be patient with me)
 
 | Project | What it is | Tech |
 |---|---|---|
