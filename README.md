@@ -2,7 +2,7 @@
 
 I'm a game and software engineer in Salt Lake City who works close to the systems layer: real-time multiplayer networking, game AI, procedural content generation, and performance. I like knowing the math underneath a system, from PID controllers steering physics-driven ships to the probability and linear algebra behind gameplay tuning.
 
-I hold B.S. degrees in **Computer Science (Games emphasis)** and **Applied Mathematics** from the University of Utah. As founder of **Expedition Games**, I led a 6-person team on *Ignition: Arena*, a Unity multiplayer game that uses a server-authoritative model with client-side prediction and reconciliation. I also wrote state-machine bot AI for it. I also shipped *Pogo Rogue* on Steam, building its seeded procedural level generator, and I write embedded Zig for custom hardware. Outside of games, I lead IT operations for the Utah Army National Guard, keeping tactical and home-station networks running.
+I hold two bachelor's degrees in **Computer Science (Games emphasis)** and **Applied Mathematics** from the University of Utah. As founder of **Expedition Games**, I led a 6-person team on *Ignition: Arena*, a Unity multiplayer game that uses a server-authoritative model with client-side prediction and reconciliation. I also wrote state-machine bot AI for it. I also shipped *Pogo Rogue* on Steam, building its seeded procedural level generator, and I write embedded Zig for custom hardware. Outside of games, I lead IT operations for the Utah Army National Guard, keeping tactical and home-station networks running.
 
 ### What I work on
 
