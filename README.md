@@ -1,8 +1,8 @@
 ## Hi, I'm Cam 👋
 
-I'm a game and software engineer in Salt Lake City. I like building systems that feel good to play and making them run fast, and I like knowing the math underneath them.
+I'm a game and software engineer in Salt Lake City. I like building juicy game systems that feel good to play, and making them run fast. I specialize in logic heavy game systems, like game AI and procedural generation.
 
-I studied **Computer Science (Games)** and **Applied Mathematics** at the University of Utah. I founded **Expedition Games**, where I led design and programming on *Ignition Arena*. I also work as an IT operations Lead for the Utah Army National Guard.
+I studied **Computer Science (w/Games Emphasis)** and **Applied Mathematics** at the University of Utah. I founded **Expedition Games**, where I led design and programming on *Ignition Arena* along with 5 employees. I also work as an IT operations Lead for the Utah Army National Guard.
 
 ### What I work on
 
